@@ -3,8 +3,21 @@
 
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  👋 Hi there, I’m Subhransu Parida
+
+I’m a Full Stack Developer from Chennai, with a B.Tech in Computer Science and Engineering from REC, Mancheswar, Bhubaneswar 🎓. I’m deeply passionate about building modern web applications that combine clean design, strong logic, and scalable architecture.
+
+💻 My core skills include:
+Frontend: HTML, CSS, JavaScript, React, Next.js
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL
+AI/ML Tools: Python, TensorFlow
+
+I enjoy solving real-world problems through code, exploring new technologies, and working on end-to-end solutions that make a difference. I’m constantly improving my craft, whether it’s creating dynamic user interfaces, building RESTful APIs, or integrating AI models into projects.
+
+🚀 My goal is to keep learning, keep experimenting, and contribute to impactful open-source projects while growing as a developer and innovator.
+
+Let’s connect and collaborate — great things happen when code meets creativity! ⚡
 </div>
 
 
